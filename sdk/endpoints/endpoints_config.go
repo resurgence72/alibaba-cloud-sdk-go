@@ -2986,6 +2986,14 @@ const endpointsJson = `{
 					"region": "ap-southeast-5",
 					"endpoint": "slb.ap-southeast-5.aliyuncs.com"
 				},
+    				{
+					"region": "ap-southeast-6",
+					"endpoint": "slb.ap-southeast-6.aliyuncs.com"
+				},
+    				{
+					"region": "ap-southeast-7",
+					"endpoint": "slb.ap-southeast-7.aliyuncs.com"
+				},
 				{
 					"region": "ap-southeast-3",
 					"endpoint": "slb.ap-southeast-3.aliyuncs.com"
